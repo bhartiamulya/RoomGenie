@@ -43,8 +43,8 @@ Transform your room with AI-powered interior design. Upload a photo, choose from
 
 ##  Available Themes
 
-| Theme | Icon | Description |
-|-------|------|-------------|
+| Theme | 
+|-------|
 | **Halloween Glow**  Spooky atmosphere with warm orange lighting |
 | **Diwali Delight**  Festive Indian celebration with diyas and lights |
 | **Cozy Study**  Minimalist workspace for focus and productivity |
